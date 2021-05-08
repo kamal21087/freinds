@@ -1,7 +1,7 @@
 # README
 
 This README would normally document whatever steps are necessary to get the
-application up and running that Kamal is working.
+application up and running that Kamal is working on.
 
 Things you may want to cover:
 
